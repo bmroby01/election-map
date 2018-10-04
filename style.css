@@ -56,19 +56,19 @@ th, td {
   color: white;
 }
 #countryResults th {
-  background-color: #f16059;
+  background-color: #9C01C1;
   color: white;
 }
 .name-1 {
-  background-color: rgb(132,17,11);
+  background-color: rgb(102, 0, 128);
   color: white;
 }
 .name-2 {
-  background-color: rgb(245, 141, 136);
+  background-color: rgb(245, 204, 255);
   color: white;
 }
 .winner {
-  background-color: #f16059;
+  background-color: #9C01C1;
   color: white;
 }
 
@@ -78,7 +78,10 @@ footer p {
   text-align: center;
   text-transform: uppercase;
 }
+footer img {
+    width: 2%;
+}
 footer span {
-  color: #f16059;
+  color: #9C01C1;
   padding: 0 5px;
 }
